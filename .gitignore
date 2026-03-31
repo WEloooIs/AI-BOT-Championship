@@ -1,0 +1,7 @@
+pyla_main.exe_extracted/
+runtime_state/
+__pycache__/
+*.log
+latest_brawler_data.json
+instance_resolution.log
+
